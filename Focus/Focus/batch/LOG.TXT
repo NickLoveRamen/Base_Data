@@ -1,0 +1,119 @@
+09:48:03am STARTING= = = = = 6/24/2016 9:48:03 AM = = = = = = = = = = Version 7.4
+09:48:03am STARTING= = = = = 6/24/2016 9:48:03 AM = = = = = = = = = = Build 16.6.15
+09:48:03am "C:\Focus\Focus.exe" /PC:\Focus /B /allow30 Looking in:C:\Focus\verify\
+09:48:03am Last rebooted: 6/24/2016 12:56:13 AM
+09:56:49am Loading C:\Focus\batch\LOG.TXT
+09:56:49am STARTING= = = = = 6/24/2016 9:56:49 AM = = = = = = = = = = Version 7.4
+09:56:49am STARTING= = = = = 6/24/2016 9:56:49 AM = = = = = = = = = = Build 16.6.15
+09:56:49am "C:\Focus\Focus.exe" /PC:\Focus /B /allow30 Looking in:C:\Focus\verify\
+09:56:49am Last rebooted: 6/24/2016 12:56:13 AM
+01:59:58pm Loading C:\Focus\batch\LOG.TXT
+01:59:58pm STARTING= = = = = 6/29/2016 1:59:58 PM = = = = = = = = = = Version 7.4
+01:59:58pm STARTING= = = = = 6/29/2016 1:59:58 PM = = = = = = = = = = Build 16.6.15
+01:59:58pm "C:\Focus\Focus.exe" /PC:\Focus /B /allow30 Looking in:C:\Focus\verify\
+01:59:58pm Last rebooted: 6/27/2016 8:22:13 PM
+10:34:35am Loading C:\Focus\batch\LOG.TXT
+10:34:35am STARTING= = = = = 6/30/2016 10:34:35 AM = = = = = = = = = = Version 7.4
+10:34:35am STARTING= = = = = 6/30/2016 10:34:35 AM = = = = = = = = = = Build 16.6.15
+10:34:35am "C:\Focus\Focus.exe" /PC:\Focus /B /allow30 Looking in:C:\Focus\verify\
+10:34:35am Last rebooted: 6/27/2016 8:22:16 PM
+10:35:57am Loading C:\Focus\batch\LOG.TXT
+10:35:57am STARTING= = = = = 6/30/2016 10:35:57 AM = = = = = = = = = = Version 7.4
+10:35:57am STARTING= = = = = 6/30/2016 10:35:57 AM = = = = = = = = = = Build 16.6.15
+10:35:57am "C:\Focus\Focus.exe" /PC:\Focus /B /allow30 Looking in:C:\Focus\verify\
+10:35:57am Last rebooted: 6/27/2016 8:22:16 PM
+10:37:29am Loading C:\Focus\batch\LOG.TXT
+10:37:29am STARTING= = = = = 6/30/2016 10:37:29 AM = = = = = = = = = = Version 7.4
+10:37:29am STARTING= = = = = 6/30/2016 10:37:29 AM = = = = = = = = = = Build 16.6.15
+10:37:29am "C:\Focus\Focus.exe" /PC:\Focus /B /allow30 Looking in:C:\Focus\verify\
+10:37:29am Last rebooted: 6/27/2016 8:22:16 PM
+10:38:45am Loading C:\Focus\batch\LOG.TXT
+10:38:45am STARTING= = = = = 6/30/2016 10:38:45 AM = = = = = = = = = = Version 7.4
+10:38:45am STARTING= = = = = 6/30/2016 10:38:45 AM = = = = = = = = = = Build 16.6.15
+10:38:45am "C:\Focus\Focus.exe" /PC:\Focus /B /allow30 Looking in:C:\Focus\verify\
+10:38:45am Last rebooted: 6/27/2016 8:22:16 PM
+10:39:32am Loading C:\Focus\batch\LOG.TXT
+10:39:32am STARTING= = = = = 6/30/2016 10:39:32 AM = = = = = = = = = = Version 7.4
+10:39:32am STARTING= = = = = 6/30/2016 10:39:32 AM = = = = = = = = = = Build 16.6.15
+10:39:32am "C:\Focus\Focus.exe" /PC:\Focus /B /allow30 Looking in:C:\Focus\verify\
+10:39:32am Last rebooted: 6/27/2016 8:22:16 PM
+10:45:41am Loading C:\Focus\batch\LOG.TXT
+10:45:41am STARTING= = = = = 6/30/2016 10:45:41 AM = = = = = = = = = = Version 7.4
+10:45:41am STARTING= = = = = 6/30/2016 10:45:41 AM = = = = = = = = = = Build 16.6.15
+10:45:41am "C:\Focus\Focus.exe" /PC:\Focus /B /allow30 Looking in:C:\Focus\verify\
+10:45:41am Last rebooted: 6/27/2016 8:22:16 PM
+10:46:56am Loading C:\Focus\batch\LOG.TXT
+10:46:56am STARTING= = = = = 6/30/2016 10:46:56 AM = = = = = = = = = = Version 7.4
+10:46:56am STARTING= = = = = 6/30/2016 10:46:56 AM = = = = = = = = = = Build 16.6.15
+10:46:56am "C:\Focus\Focus.exe" /PC:\Focus /B /allow30 Looking in:C:\Focus\verify\
+10:46:56am Last rebooted: 6/27/2016 8:22:16 PM
+10:55:25am Loading C:\Focus\batch\LOG.TXT
+10:55:25am STARTING= = = = = 6/30/2016 10:55:25 AM = = = = = = = = = = Version 7.4
+10:55:25am STARTING= = = = = 6/30/2016 10:55:25 AM = = = = = = = = = = Build 16.6.15
+10:55:25am "C:\Focus\Focus.exe" /PC:\Focus /B /allow30 Looking in:C:\Focus\verify\
+10:55:25am Last rebooted: 6/27/2016 8:22:16 PM
+11:29:20am Loading C:\Focus\batch\LOG.TXT
+11:29:20am STARTING= = = = = 6/30/2016 11:29:20 AM = = = = = = = = = = Version 7.4
+11:29:20am STARTING= = = = = 6/30/2016 11:29:20 AM = = = = = = = = = = Build 16.6.15
+11:29:20am "C:\Focus\Focus.exe" /PC:\Focus /B /allow30 Looking in:C:\Focus\verify\
+11:29:20am Last rebooted: 6/27/2016 8:22:16 PM
+11:31:25am Loading C:\Focus\batch\LOG.TXT
+11:31:25am STARTING= = = = = 6/30/2016 11:31:25 AM = = = = = = = = = = Version 7.4
+11:31:25am STARTING= = = = = 6/30/2016 11:31:25 AM = = = = = = = = = = Build 16.6.15
+11:31:25am "C:\Focus\Focus.exe" /PC:\Focus /B /allow30 Looking in:C:\Focus\verify\
+11:31:25am Last rebooted: 6/27/2016 8:22:16 PM
+11:33:31am Loading C:\Focus\batch\LOG.TXT
+11:33:31am STARTING= = = = = 6/30/2016 11:33:31 AM = = = = = = = = = = Version 7.4
+11:33:31am STARTING= = = = = 6/30/2016 11:33:31 AM = = = = = = = = = = Build 16.6.15
+11:33:31am "C:\Focus\Focus.exe" /PC:\Focus /B /allow30 Looking in:C:\Focus\verify\
+11:33:31am Last rebooted: 6/27/2016 8:22:16 PM
+11:34:08am Loading C:\Focus\batch\LOG.TXT
+11:34:08am STARTING= = = = = 6/30/2016 11:34:08 AM = = = = = = = = = = Version 7.4
+11:34:08am STARTING= = = = = 6/30/2016 11:34:08 AM = = = = = = = = = = Build 16.6.15
+11:34:08am "C:\Focus\Focus.exe" /PC:\Focus /B /allow30 Looking in:C:\Focus\verify\
+11:34:08am Last rebooted: 6/27/2016 8:22:16 PM
+11:36:12am Loading C:\Focus\batch\LOG.TXT
+11:36:12am STARTING= = = = = 6/30/2016 11:36:12 AM = = = = = = = = = = Version 7.4
+11:36:12am STARTING= = = = = 6/30/2016 11:36:12 AM = = = = = = = = = = Build 16.6.15
+11:36:12am "C:\Focus\Focus.exe" /PC:\Focus /B /allow30 Looking in:C:\Focus\verify\
+11:36:12am Last rebooted: 6/27/2016 8:22:16 PM
+11:39:49am Loading C:\Focus\batch\LOG.TXT
+11:39:49am STARTING= = = = = 6/30/2016 11:39:49 AM = = = = = = = = = = Version 7.4
+11:39:49am STARTING= = = = = 6/30/2016 11:39:49 AM = = = = = = = = = = Build 16.6.15
+11:39:49am "C:\Focus\Focus.exe" /PC:\Focus /B /allow30 Looking in:C:\Focus\verify\
+11:39:49am Last rebooted: 6/27/2016 8:22:16 PM
+11:46:08am Loading C:\Focus\batch\LOG.TXT
+11:46:08am STARTING= = = = = 6/30/2016 11:46:08 AM = = = = = = = = = = Version 7.4
+11:46:08am STARTING= = = = = 6/30/2016 11:46:08 AM = = = = = = = = = = Build 16.6.15
+11:46:08am "C:\Focus\Focus.exe" /PC:\Focus /B /allow30 Looking in:C:\Focus\verify\
+11:46:08am Last rebooted: 6/27/2016 8:22:16 PM
+11:47:00am Loading C:\Focus\batch\LOG.TXT
+11:47:00am STARTING= = = = = 6/30/2016 11:47:00 AM = = = = = = = = = = Version 7.4
+11:47:00am STARTING= = = = = 6/30/2016 11:47:00 AM = = = = = = = = = = Build 16.6.15
+11:47:00am "C:\Focus\Focus.exe" /PC:\Focus /B /allow30 Looking in:C:\Focus\verify\
+11:47:00am Last rebooted: 6/27/2016 8:22:16 PM
+11:47:50am Loading C:\Focus\batch\LOG.TXT
+11:47:50am STARTING= = = = = 6/30/2016 11:47:50 AM = = = = = = = = = = Version 7.4
+11:47:50am STARTING= = = = = 6/30/2016 11:47:50 AM = = = = = = = = = = Build 16.6.15
+11:47:50am "C:\Focus\Focus.exe" /PC:\Focus /B /allow30 Looking in:C:\Focus\verify\
+11:47:50am Last rebooted: 6/27/2016 8:22:16 PM
+12:42:03pm Loading C:\Focus\batch\LOG.TXT
+12:42:03pm STARTING= = = = = 6/30/2016 12:42:03 PM = = = = = = = = = = Version 7.4
+12:42:03pm STARTING= = = = = 6/30/2016 12:42:03 PM = = = = = = = = = = Build 16.6.15
+12:42:03pm "C:\Focus\Focus.exe" /PC:\Focus /B /allow30 Looking in:C:\Focus\verify\
+12:42:03pm Last rebooted: 6/27/2016 8:22:16 PM
+12:45:08pm Loading C:\Focus\batch\LOG.TXT
+12:45:08pm STARTING= = = = = 6/30/2016 12:45:08 PM = = = = = = = = = = Version 7.4
+12:45:08pm STARTING= = = = = 6/30/2016 12:45:08 PM = = = = = = = = = = Build 16.6.15
+12:45:08pm "C:\Focus\Focus.exe" /PC:\Focus /B /allow30 Looking in:C:\Focus\verify\
+12:45:08pm Last rebooted: 6/27/2016 8:22:16 PM
+12:58:22pm Loading C:\Focus\batch\LOG.TXT
+12:58:22pm STARTING= = = = = 6/30/2016 12:58:22 PM = = = = = = = = = = Version 7.4
+12:58:22pm STARTING= = = = = 6/30/2016 12:58:22 PM = = = = = = = = = = Build 16.6.15
+12:58:22pm "C:\Focus\Focus.exe" /PC:\Focus /B /allow30 Looking in:C:\Focus\verify\
+12:58:22pm Last rebooted: 6/27/2016 8:22:16 PM
+01:00:46pm Loading C:\Focus\batch\LOG.TXT
+01:00:46pm STARTING= = = = = 6/30/2016 1:00:46 PM = = = = = = = = = = Version 7.4
+01:00:46pm STARTING= = = = = 6/30/2016 1:00:46 PM = = = = = = = = = = Build 16.6.15
+01:00:46pm "C:\Focus\Focus.exe" /PC:\Focus /B /allow30 Looking in:C:\Focus\verify\
+01:00:46pm Last rebooted: 6/27/2016 8:22:16 PM

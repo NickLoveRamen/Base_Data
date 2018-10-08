@@ -1,0 +1,1310 @@
+
+  Message #1    Access code in use by %s.  Enter a unique access code.  
+  Message #2    An access code is required.  
+  Message #3    Menu name, remote check name, and guest check name cannot be left blank.  
+  Message #4    Cannot transfer items from a seat that has received a payment.  
+  Message #5    Invalid percentage.  Percentage must be between 0 and 100.  
+  Message #6    Delete %s?  
+  Message #7    Post inventory?  
+  Message #8    %s will be clocked in as %s.  Do you want to continue?  
+  Message #9    The threshold must be less than or equal to the first tax break.  
+  Message #10   Cycle must not be greater than 100.  
+  Message #11   Cannot transfer items to a check with payments.  
+  Message #12   The check has been transferred.  
+  Message #13   Delete employee %s?  
+  Message #14   Maximum modifiers must be greater than or equal to minimum modifiers.  
+  Message #15   File delete failure %s.  
+  Message #16   Are the number of guests correct?  
+  Message #17   Invalid default canvas.  Enter a number between 1 and 30.  
+  Message #18   Inventory has already been posted.  
+  Message #19   An inventory worksheet must be selected.  
+  Message #20   A table is required.  
+  Message #21   An inventory must be selected.  
+  Message #22   Only one item may be selected for split item.  
+  Message #23   Modifiers may not be split.  
+  Message #24   Cannot delete sent, voided, discounted, held or split items.  
+  Message #25   Check %s does not exist.  
+  Message #26   Cannot hold sent or voided items.  
+  Message #27   All items which have been saved and held must be fired or voided.  
+  Message #28   One or more selected items have already been sent or voided.  They cannot be fired.  
+  Message #29   Are you sure you want to clock out?  
+  Message #30   Item ID %s not found.  
+  Message #31   Multiple items may not be modified.  Please select only one.  
+  Message #32   Sent items may not be modified.  
+  Message #33   An item must be selected.  
+  Message #34   No optional modifier canvases.  
+  Message #35   Cannot hold modifiers.  
+  Message #36   %s exceeds maximum modifiers for %s.  
+  Message #37   Maximum number of items on check exceeded.  
+  Message #38   Selected employee does not have order entry or cashier job rights.  
+  Message #39   Cannot remove a void from a modifier if item it modifies is voided.  
+  Message #40   Minimum modifier requirements have not been satisfied.  
+  Message #41   %s report.  
+  Message #42   Selected employee does not have the driver job right.  
+  Message #43   Job 1 must contain a job.  
+  Message #44   Clock the employee in?  
+  Message #45   Clock the employee %s out?  
+  Message #46   Cannot clock out while on break.  
+  Message #47   Time out must be greater than time in.  
+  Message #48   Inactive and terminated employees cannot log in.  
+  Message #49   Invalid access code.  
+  Message #50   A schedule must be selected.  
+  Message #51   The inventory post date must be entered.  
+  Message #52   Delete the current row?  
+  Message #53   The schedule conflicts with the employee''s existing schedule.  Schedule anyway?  
+  Message #54   Invalid job for selected employee.  
+  Message #55   The schedule conflicts with the employee''s availability%s.  Schedule anyway?  
+  Message #56   Sales projections, - invalid number.  
+  Message #57   Each scheduled time must have a job.  
+  Message #58   The employee does not have the required skill level.  Schedule anyway?  
+  Message #59   Schedule does not exist.  
+  Message #60   Invalid hexadecimal number.  
+  Message #61   Cannot split an item more than once.  
+  Message #62   Insufficient rights (%s).  
+  Message #63   Invoice required.  
+  Message #64   Vendor required.  
+  Message #65   Comment required.  
+  Message #66   Only %s of %s left in stock.  Cannot place the order.  
+  Message #67   The item is already on the invoice.  
+  Message #68   Must have ''Take breaks'' job right to take breaks.  
+  Message #69   Must remain on break %s minutes.  
+  Message #70   Already logged into station (%s).  
+  Message #71   Press the Detail button to view a check from a previous date.  
+  Message #72   Customer %s does not have a check.  
+  Message #73   Delete Time Card %s?  
+  Message #74   The canvas is locked, cannot be modified.  
+  Message #75   Invoice has already been posted.  
+  Message #76   Station (%s) was not found.  The station will default to station 1.  Use setup to configure the station.  
+  Message #77   Station is currently in use by another user.  
+  Message #78   Card is required.  
+  Message #79   Schedule has been changed.  Do you want to save the schedule?  
+  Message #80   Delete menu item %s?  
+  Message #81   Must have ''Ring own checks'' job right.  
+  Message #82   Must have ''Ring other''s checks'' job right.  
+  Message #83   %s is out of stock.  
+  Message #84   %s is out of stock.  Suggestion: %s  
+  Message #85   %s is out of stock.  Suggestion: %s Would you like to order %s?  
+  Message #86   The check is currently in use on station %s.  
+  Message #87   Must have the ''Access other''s checks'' job right.  
+  Message #88   %s has table %s open.  
+  Message #89   Name command  
+  Message #90   Serious exception: check number %s past end of file for record # %s address %s . 
+  Message #91   Delete?  
+  Message #92   No items were selected.  
+  Message #93   Item selection must be set to selected items or all items for subtotal discounts.  
+  Message #94   Station reindex completed successfully.  
+  Message #95   Cannot split an item that has an order type charge.  
+  Message #96   Time card reindex completed successfully.  
+  Message #97   Number of splits must be 2 or greater.  
+  Message #98   A check must be selected to transfer.  
+  Message #99   Cannot transfer a closed check.  
+  Message #100  Paid Out must be selected.  
+  Message #101  Combine check %s with check %s?  
+  Message #102  Transfer the selected items?  
+  Message #103  Check %s is closed or unused.  
+  Message #104  Check %s is currently in use on %s.  
+  Message #105  Check source and destination cannot be the same.  
+  Message #106  Check %s is pending transfer from %s.  Do you want to accept this check?  
+  Message #107  The order type of each check must be the same.  
+  Message #108  %s has transferred items to this check.  
+  Message #109  The employee must currently be on the clock.  
+  Message #110  Beverage requirement has not been satisfied.  %s more beverages must be ordered before the check can be printed.  
+  Message #111  Beverage requirement has not been satisfied.  %s more beverages were expected.  Do you want to print the check?  
+  Message #112  Post invoice?  
+  Message #113  Problem writing the check, re-ring the check.  
+  Message #114  Problem reading scale.  Excessive tare weight. %s  
+  Message #115  Must have the ''Tender own checks'' job right.  
+  Message #116  Must have the ''Tender others'' checks'' job right.  
+  Message #117  Cannot add a payment to a closed seat.  
+  Message #118  Balance due already tendered.  
+  Message #119  Cannot split a seat that has a payment.  
+  Message #120  Inactive and terminated employees cannot charge employee meals.  
+  Message #121  Time clock: %s has clocked in.  
+  Message #122  Cannot change the order type of a check with a seat that has the balance tendered.  
+  Message #123  A check must be selected to print.  
+  Message #124  The selected media does not allow over-tender.  
+  Message #125  Account number required.  
+  Message #126  Expiration date required.  
+  Message #127  Card has expired.  
+  Message #128  Cannot combine seats once a payment has been received.  
+  Message #129  Cannot add a seat to a closed check.  
+  Message #130  Delete the selected schedule?  
+  Message #131  A schedule already exists with that name.  
+  Message #132  A skill has not been selected.  Do you want to select a skill?  
+  Message #133  Maximum projection is 99999.  
+  Message #134  Gift certificate number required.  
+  Message #135  Warning: Running low on disk space.  %s remaining.  Your POS system will fail to function!  
+  Message #136  Check number is required.  
+  Message #137  Drivers license number required.  
+  Message #138  Date of birth required.  
+  Message #139  State required.  
+  Message #140  Checking account required.  
+  Message #141  ABA routing number required.  
+  Message #142  The mail address %s could not be found.  
+  Message #143  The current user can only clock out using the time clock.  
+  Message #144  View the schedule for the current week?  
+  Message #145  The account number does not match the payment.  
+  Message #146  %s only available %s.  
+  Message #147  The check is unused.  
+  Message #148  Cannot void items once a payment has been received.  
+  Message #149  Wordpad.exe was not found in %s  
+  Message #150  Notepad.exe was not found.  
+  Message #151  File %s does not exist.  
+  Message #152  Do you want to exit the software?  
+  Message #153  Cannot edit the tip on a denied payment.  
+  Message #154  Cannot edit the tip on a pending payment  
+  Message #155  Cannot edit the tip on a voided payment.  
+  Message #156  A payment must be selected.  
+  Message #157  Customer %s may not charge.  
+  Message #158  Customer %s charge limit exceeded.  Remaining charge limit is %s.  
+  Message #159  Customer could not be found.  
+  Message #160  An employee may not be deleted while clocked in.  
+  Message #161  Invalid default canvas.  A default canvas must be selected.  
+  Message #162  An inventory subgroup is required.  
+  Message #163  Customer not found.  New customer?  
+  Message #164  Cannot clock out with open checks.  
+  Message #165  Check %s payment %s added for %s.  
+  Message #166  Cash tips of %s have been declared.  Is this correct?  
+  Message #167  Discount is not active.  
+  Message #168  Discount not available at current time.  
+  Message #169  Discount source must be entered.  
+  Message #170  The discount requirements were not satisfied.  
+  Message #171  The discount was not applied.  No eligible items.  
+  Message #172  A discount cannot be applied if there is a payment on the seat.  
+  Message #173  Cannot transfer discounted items.  
+  Message #174  Cannot select a discounted item.  
+  Message #175  Reset the grand total?  
+  Message #176  A serious close day error occurred.  Close Day cannot be run again until the problem is fixed.  See the errors file for info.  
+  Message #177  The day has not been closed.  Do you want to close the day?  
+  Message #178  File open failure %s.  
+  Message #179  File %s not found.  
+  Message #180  Too many open files.  
+  Message #181  Access denied to the file %s.  
+  Message #182  Close Day ran manually at %s for business date %s.  
+  Message #183  Close Day ran automatically at %s for business date %s.  
+  Message #184  An error occurred on the previous close day.  Close Day aborted.  
+  Message #185  An error occurred creating the business date flag file.  
+  Message #186  An error occured creating the startup start flag.  
+  Message #187  An error occurred creating the startup end flag.  
+  Message #188  An error occurred creating the critical start flag.  
+  Message #189  An error occurred creating the critical end flag.  
+  Message #190  An error occurred creating the non-batched payments flag.  
+  Message #191  File close failure %s.  
+  Message #192  Business date %s successfully closed by %s.  
+  Message #193  The day was NOT closed.  More information can be found in Close Day Status.  
+  Message #194  An error occurred creating the open check flag.  
+  Message #195  An error occurred in the create bak version procedure.  
+  Message #196  An error occurred in the rest check file procedure.  
+  Message #197  Path %s not found.  
+  Message #198  Two directories for this business date already exist.  
+  Message #199  Open checks found.  Close Day?  
+  Message #200  Open logins found.  Close Day?  
+  Message #201  Close Day?  
+  Message #202  An error occurred creating the closing flag. 
+  Message #203  Some payments have not been batched.  Close Day?  
+  Message #204  %s automatically logged out at %s during Close Day.  
+  Message #205  Cannot log in while the day is closing.  
+  Message #206  A driver must be selected.  
+  Message #207  An invoice must be selected.  
+  Message #208  A date in must be specified.  
+  Message #209  A time in must be specified.  
+  Message #210  All data in the file will be deleted.  Are you sure you want to create %s?  
+  Message #211  Split item requires an item be selected.  
+  Message #212  The menu item ID must be unique.  ID used by %s.  
+  Message #213  Must use tender even to close the check if the balance due is zero.  
+  Message #214  An inventory must be selected for the inventory analysis report.  
+  Message #215  A table number must be specified.  
+  Message #216  A paid in amount must be entered.  
+  Message #217  Delivery key required.  
+  Message #218  If the computation type is Check percentage or Check $ then the display charge at bottom of check option must be on.  
+  Message #219  Invalid percentage.  A percentage between 0 and 500 must be entered.  
+  Message #220  Delete the selected canvas items?   
+  Message #221  Invalid default floor plan canvas.  Enter a number between 1 and 30.  
+  Message #222  Fraction quantity is not allowed.  
+  Message #223  Inventory key required.  
+  Message #224  Employee %s has %s hours already.  Clockin must be approved.  
+  Message #225  No items were selected.  
+  Message #226  Create completed successfully.  
+  Message #227  Cannot place a payment on a seat with items on hold.  
+  Message #228  Cannot move an item to a seat that has a payment.  
+  Message #229  Voided items may not be split.  
+  Message #230  Pending payments - cannot perform this operation.  
+  Message #231  Cannot place a gratuity on a seat that has a payment.  
+  Message #232  Nickname required.  
+  Message #233  Cannot clock out with missing tips.  
+  Message #234  %s has an open check on table %s already.  Cannot transfer  
+  Message #235  A paid in type must be selected.  
+  Message #236  A customer must be selected.  
+  Message #237  A station has not been selected for the printer in station configuration, cannot print.  
+  Message #238 The end date must be greater than the start date.  
+  Message #239  A payment must be selected for the paid in.  
+  Message #240  Both tender even and next highest amount options may not be selected.  
+  Message #241  A drawer has not been selected.  Is this correct?  
+  Message #242  Cannot print a combined check with payments.  
+  Message #243  Cannot print a combined check that has been discounted.  
+  Message #244  Information could not be found for this item.  
+  Message #245  A canvas item must be selected.  
+  Message #246  A paid in must be selected.  
+  Message #247  A paid out must be selected.  
+  Message #248  An item must be selected.  
+  Message #249  The amount must be greater than the tip.  
+  Message #250  Is the amount %s correct?  
+  Message #251  An error occurred in close day startup.  See the errors file for info.  
+  Message #252  Station %s has started Focus Version %s %s.  
+  Message #253  Station %s has exited Focus by %s. Last Reboot:%s 
+  Message #254  The end date must be greater than or equal to the start date.  
+  Message #255  Not enough memory.  
+  Message #256  Invalid payment number.  
+  Message #257  Paid Out amount required.  
+  Message #258  Error reading scale: %s.  
+  Message #259  Day rollover: %s.  
+  Message #260  Transfer items before logic for check %s.  
+  Message #261  Transfer items after check read.  
+  Message #262  The access code %s will allow access to the software.  
+  Message #263  File %s does not exist.  
+  Message #264  Import menu item file %s?  
+  Message #265  Export to menu item file %s?  
+  Message #266  Cannot place an advance on a seat that has a payment.  
+  Message #267  Cannot remove an advance on a seat that has a payment.  
+  Message #268  Check %s login, rename status %s.  
+  Message #269  Only one drawer may be selected.  
+  Message #270  Exception: menu item %s read failed.  Please reorder the item.  
+  Message #271  Exception: menu item %s read failed.  
+  Message #272  Exception: Backup did not copy file %s because it may be corrupt.  
+  Message #273  Backup did not copy file %s because it is smaller than the destination file.  
+  Message #274  Delete street %s?  
+  Message #275  Date of birth invalid.  
+  Message #276  A zero tender is not allowed.  
+  Message #277  Items on hold cannot be discounted.  
+  Message #278  Customer must pay tax on Subtotal $ discounts.  
+  Message #279  Close %s checks for %s to cash?  
+  Message #280  You have messages!  
+  Message #281  Voided and split items are not repeated.  
+  Message #282  Check files reset successfully!  
+  Message #283  Remove all check files, all sales data will be lost?  
+  Message #284  Printer thread alive.  
+  Message #285  Table %s has not been in use today.  
+  Message #286  The drawer cannot be opened while a check is on the screen.  
+  Message #287  The first menu item filter cannot be selected.  
+  Message #288  Start save check %s.  
+  Message #289  End save check %s.  
+  Message #290  Transfer driver - check %s from %s to %s.  
+  Message #291  Check %s gratuity %s applied.  
+  Message #292  Check %s gratuity %s removed.  
+  Message #293  No sale open drawer command.  
+  Message #294  Menu %s selected.  
+  Message #295  Check %s item %s placed on hold.  
+  Message #296  Check %s item %s fired.  
+  Message #297  Check %s item %s taken off hold.  
+  Message #298  Check %s guests set to %s.  
+  Message #299  Check %s item %s repeated.  
+  Message #300  Check %s advance for $%s applied.  
+  Message #301  Check %s item %s voided.  
+  Message #302  Check %s item %s void removed.  
+  Message #303  Check %s advance %s removed.  
+  Message #304  Pay all open checks command.  
+  Message #305  %s checks for %s closed to cash.  
+  Message #306  Delayed print command %s.  
+  Message #307  Check %s item %s deleted.  
+  Message #308  Check %s tab name %s entered.  
+  Message #309  Check %s item %s taxes %s exempt.  
+  Message #310  %s command %s.  
+  Message #311  Advance command.  
+  Message #312  Select menu command.  
+  Message #313  Hold command %s.  
+  Message #314  Fire command %s.  
+  Message #315  Guests command.  
+  Message #316  Repeat command %s.  
+  Message #317  Quantity command.  
+  Message #318  Void command.  
+  Message #319  Delete command.  
+  Message #320  Split command.  
+  Message #321  Tax exempt command %s.  
+  Message #322  Tab name command.  
+  Message #323  Subtotal command check %s.  
+  Message #324  Edit tips command.  
+  Message #325  Item functions command.  
+  Message #326  Print command %s.  
+  Message #327  Check %s start printing combined format.  
+  Message #328  Check %s end printing.  
+  Message #329  Check %s start printing regular format.  
+  Message #330  Check %s printing.  
+  Message #331  Check %s item %s moved from %s.  
+  Message #332  Check %s seat %s split select all items.  
+  Message #333  Check %s split combine all.  
+  Message #334  Check %s seat %s created in split.  
+  Message #335  Check %s item %s split %s times.  
+  Message #336  Check %s seat %s created in order entry.  
+  Message #337  Check %s seat %s selected in order entry.  
+  Message #338  Check %s item %s already printed moved from %s.  
+  Message #339  Order entry stock command %s placed out of stock.  
+  Message #340  Order entry stock command %s placed in stock.  
+  Message #341  Order entry nutritional information %s displayed.  
+  Message #342  Order entry recipe information %s displayed.  
+  Message #343  Order entry training information %s displayed.  
+  Message #344  Employee login. %s  
+  Message #345  Employee logout.  
+  Message #346  Event %s completed.  
+  Message #347  Event %s occurred at %s with %s.  
+  Message #348  Edit tip on payment %s of %s - tip %s.  
+  Message #349  Edit tips select all payments.  
+  Message #350  Check %s payment %s voucher reprinted.  
+  Message #351  A printer driver has not been selected for the printer in station configuration, cannot print.  
+  Message #352  A printer port has not been selected for the printer in station configuration, cannot print.  
+  Message #353  A blackboard must be selected.  
+  Message #354  Do you want to delete the blackboard %s?  
+  Message #355  Backup computer %s back on-line.  
+  Message #356  Exception: Backup computer %s not found.  
+  Message #357  Transfer server - check %s from %s to %s.  
+  Message #358  Transfer pending server - check %s from %s to %s.  
+  Message #359  Customer phone number required.  
+  Message #360  Transfer table - check %s to %s.  
+  Message #361  Transfer pending table - check %s from table %s to %s.  
+  Message #362  Combine check %s with check %s.  
+  Message #363  Transfer item %s from check %s to check %s.  
+  Message #364  Customer card number required.  
+  Message #365  Check %s item %s ordered.  
+  Message #366  Check %s automatic order type prompt.  
+  Message #367  Check %s select order type.  
+  Message #368  Check %s order type %s applied to check.  
+  Message #369  Include cost information on the schedule?  
+  Message #370  Customer first name required.  
+  Message #371  Customer last name required.  
+  Message #372  Customer address required.  
+  Message #373  Not scheduled to work %s %s %s.  
+  Message #374  Customer city required.  
+  Message #375  There are no schedules to delete.  
+  Message #376  A check with a negative balance cannot be saved.  
+  Message #377  Customer state required.  
+  Message #378  A check with a negative balance cannot be paid.  
+  Message #379  Customer zip code required.  
+  Message #380  There are no checks for %s.  
+  Message #381  The recipe is invalid.  It contains the same recipe item multiple times.  
+  Message #382  Transfer check %s to %s?  
+  Message #383  Any changes to cash drawer assignments will not be saved.  Exit anyway?  
+  Message #384  No cash drawers assigned.  
+  Message #385  Customer company required.  
+  Message #386  Break out time is less than the break in time.  Is this correct?  
+  Message #387  Customer birth date required.  
+  Message #388  Delivery instructions required.  
+  Message #389  Customer delivery zone required.  
+  Message #390  No order to recall.  
+  Message #391  Customer comments required.  
+  Message #392  System information updated.  
+  Message #393  Credit card process is not responding on station %s.  
+  Message #394  Scheduling started.  
+  Message #395  Scheduling completed.  
+  Message #396  Office started.  
+  Message #397  Office completed.  
+  Message #398  Start internet transfer of file %s size %s.  
+  Message #399  End internet transfer of file %s.  
+  Message #400  Real time backup started.  
+  Message #401  Real time backup completed.  
+  Message #402  The discount was not applied.  An item must be selected.  
+  Message #403  Employees entered.  
+  Message #404  Employees exited.  
+  Message #405  Check item %s record # %s at byte %s.  
+  Message #406  Check item %s record # lock failed.  
+  Message #407  Exception - debug check # %s past last check # %s in file %s.  
+  Message #408  Delphi Exception: %s.  
+  Message #409  No check files were found for %s - %s.  
+  Message #410  Time clock module entered from %s emp time card ID # %s.  
+  Message #411  Print all jobs for each employee?  
+  Message #412  Check %s started.  
+  Message #413  Printer thread problem (xception): %s.  
+  Message #414  Time cards entered.  
+  Message #416  Remote check read header error (exception): %s.  
+  Message #417  Error - Start check (append) failed.  
+  Message #418  Remote check file %s temporary file created.  
+  Message #419  Remote check file %s renamed.  
+  Message #420  Transfer items from check %s to check %s.  
+  Message #421  Remote check print items I/O error (exception): %s.  
+  Message #422  Delete customer %s?  
+  Message #423  Set location command %s.  
+  Message #424  Check %s location set to %s.  
+  Message #425  Start remote printing of check %s file size %s.  
+  Message #426  End remote printing of check %s.  
+  Message #427  %s has been changed.  Do you want to save?  
+  Message #428  Printer status problem on printing.  Creating file %s.  
+  Message #429  %s went on  break at %s.  
+  Message #430  %s went off break at %s.  
+  Message #431  The process cannot access the file %s because it is being used by another process.  
+  Message #432  Time clock: %s has clocked out.  
+  Message #433  View time card.  
+  Message #434  View schedule.  
+  Message #435  %s has been placed out of stock.  
+  Message #436  %s is scheduled for overtime.  
+  Message #437  A filename must be entered to e-mail reports.  
+  Message #438  An e-mail address must be entered to e-mail reports.  
+  Message #439  No current order for the customer.  
+  Message #440  Cannot edit the tip on a batched payment.  
+  Message #441  %s has been changed.  Do you want to save?  
+  Message #442  Batch record %s %s %s could not be found.  
+  Message #443  Cannot edit the tip on a verified account payment.  
+  Message #444  Payment %s %s %s synchronized.  
+  Message #445  Check %s preauth payment %s added for %s.  
+  Message #446  A matching payment could not be found for credit card account #%s.  
+  Message #447  The maximum credit amount has been exceeded.  Do you want to continue?  
+  Message #448  The maximum tip amount has been exceeded.  Do you want to continue?  
+  Message #449  Only approved credit cards can be reprinted.  
+  Message #450  Length of the ID field must match the mask.  
+  Message #451  Station timed out (form %s).  
+  Message #452  There is no hardware key.  The demonstration limit has been exceeded.  
+  Message #453  Schedule key required.  
+  Message #454  There is no credit key.  
+  Message #455  There is no property management interface key.  
+  Message #456  Wrote credit file %s containing %s.  
+  Message #457  Wrote PMS file %s containing %s.  
+  Message #458  Read credit/PMS file %s containing %s.  
+  Message #459  Cannot void a preauthorized payment.  
+  Message #460  Void the selected payment?  
+  Message #461  The batch is NOT in balance.  Press the Reconcile button for further information.  
+  Message #462  Can''t void a denied payment.  
+  Message #463  Can''t void a pending payment until it has timed out in %s seconds.  
+  Message #464  Can''t void a batched payment.  
+  Message #465  Settle the current batch?  
+  Message #466  The access file %s does not exist in login check, creating it.  
+  Message #467  Cannot share a check that has more than one seat.  
+  Message #468  The directory (%s) does not exist.  
+  Message #469  Check %s payment %s voided.  
+  Message #470  PMS Payment NOT Voided.  
+  Message #471  Not available in training mode.  
+  Message #472  Training mode - %s.  
+  Message #473  Table form started.  
+  Message #474  Table form ended.  
+  Message #475  Employee module entered.  
+  Message #476  Employee module exited.  
+  Message #477  There are no drawers configured on this station.  
+  Message #478  Not assigned to a drawer on this station.  User currently assigned to a drawer on %s.  
+  Message #479  Settle batch started for check file %s and batch file %s.  
+  Message #480  A batch could not be found for %s.  
+  Message #481  Exception: Credit card wrote payment record trying to write to a non-payment data record - record number %s.  
+  Message #482  Exception: Write payment record failed in credit card - record number %s.  
+  Message #483  Exception: Read payment record failed in credit card - record number %s.  
+  Message #484  The current station exceeds the hardware key limit of %s users.  The demonstration limit has been exceeded.  
+  Message #485  Please pre-authorize more credit.  
+  Message #486  Pre-Authorized credit has been exceeded.  Do you want to continue ordering?  
+  Message #487  Cannot share a check that has a payment on it.  
+  Message #488  Sharing a check requires two or more splits.  
+  Message #489  Share check %s ways?  
+  Message #490  Purge check file %s.  
+  Message #491  Bad network path  %s.  
+  Message #492  Windows system I/O error on %s %s.  
+  Message #493  Are you sure you want to %s %s?  
+  Message #494  Exception: Seek on check item failed : value %s.  
+  Message #495  Exception: rebuilding check item file %s : current size %s.  
+  Message #496  Exception: rebuilding check item file: last good record %s.  
+  Message #497  Exception: rebuilding check item file: transfer successful.  
+  Message #498  Exception: rebuilding check item file: delete chkitem file failed.  
+  Message #499  The street number entered is not within the range %s - %s for the street.  
+  Message #500  Customer file %s does not exist.  
+  Message #501  Export to customer file %s?  
+  Message #502  Import file %s?  
+  Message #503  Check %s successfully delivered?  
+  Message #504  Close check %s for %s to cash?  
+  Message #505  No employees found.  
+  Message #506,  An Address and Zip Code are required to display a map.  
+  Message #507,  Map option not configured.  
+  Message #508,  There is no customer information on the check to edit.  
+  Message #509,  Exception: Not able to save check %s, NRGT locked.  Please re-ring or try saving again.  
+  Message #510,  Exception: Read of NRGT failed.  
+  Message #511,  CAUTION: Sales data is no longer valid once a purge is done.  Purge %s menu item records from menu item file?  
+  Message #512,  Menu item purge successful!  
+  Message #513,  The credit card file %s has not been batched.  
+  Message #514   A payment must be selected for the gift card.  
+  Message #515   A gift card amount must be entered.  
+  Message #516   A gift card must be selected.  
+  Message #517  Gift card: sending output %s.  
+  Message #518  Gift card: receiving input %s.  
+  Message #519  No response from gift card processor.  
+  Message #520  NAK received from gift card processor.  Please retry.  
+  Message #521  A payment must be selected to activate a gift card.  
+  Message #522  Activation failed for the following reason: %s  
+  Message #523  Balance failed for the following reason: %s  
+  Message #524  Balance for gift card %s is $%s  
+  Message #525  Data from gift card processor checksum failed.  Please try again.  
+  Message #526  An account must be entered.  
+  Message #527  Gift Card %s successfully activated for %s.  Activate another?  
+  Message #528  Can''t activate a gift card for a voided payment.  
+  Message #529  Can''t activate a gift card for a pending payment.  
+  Message #530  Can''t activate a gift card for a denied payment.  
+  Message #531  Can''t activate: balance of %s exceeded.  
+  Message #532  Gift Card %s successfully activated for %s.  
+  Message #533  Can''t void a voided payment.  
+  Message #534  Gift Card payment %s voided.  
+  Message #535  Gift Card payment cannot be voided until gift cards are voided.  
+  Message #536  Can''t void a voided gift card.  
+  Message #537  Gift Card %s with account %s for %s voided.  
+  Message #538  Void failed for the following reason: %s  
+  Message #539  Void gift card %s for %s.  
+  Message #540  A payment must be selected to increment a gift card.  
+  Message #541  Can''t increment a gift card for a voided payment.  
+  Message #542  Can''t increment a gift card for a pending payment.  
+  Message #543  Can''t increment a gift card for a denied payment.  
+  Message #544  Can''t increment: balance of %s exceeded.  
+  Message #545  Gift Card %s successfully incremented for %s.  Increment another?  
+  Message #546  Gift Card %s successfully incremented for %s.  
+  Message #547  Increment failed for the following reason: %s  
+  Message #548  Redeem failed for the following reason: %s  
+  Message #549  Gift Card key required.  
+  Message #550  The tip cannot be edited on a forced payment or return.  
+  Message #551  After login default order access method.  
+  Message #552  A payment must be selected.  
+  Message #553  Amount required.  
+  Message #554  Sale for %s on credit card %s expiration date %s?  
+  Message #555  %s  
+  Message #556  Return for %s on credit card %s expiration date %s?  
+  Message #557  Force for %s on credit card %s expiration date %s?  
+  Message #558  A forces requires an approval code.  
+  Message #559  Before assign comm handlers.  
+  Message #560  Before check form displayed.  
+  Message #561  After check form displayed.  
+  Message #562  Before table form displayed.  
+  Message #563  After table form displayed.  
+  Message #564  Before floor plan displayed.  
+  Message #565  After floor plan displayed.  
+  Message #566  Return from table form, table # %s.  
+  Message #567  Return from check form, check # %s.  
+  Message #568  Before table %s on floor plan selected.  
+  Message #569  After table on floor plan.  
+  Message #570  Check filter specified.  
+  Message #571  A check must be selected.  
+  Message #580  All credit processing will stop.  Are you sure you want to quit?  
+  Message #581  YOU WILL NOT BE ABLE TO ACCEPT CREDIT CARDS IF YOU CONTINUE.  ARE YOU ABSOLUTELY CERTAIN?  
+  Message #582  You must restart this program before accepting credit card payments.  
+  Message #583  Station %s started IFACE: command line %s looking in %s.  
+  Message #584  IFACE still alive : looking in %s.  
+  Message #585  Read request file %s => %s.  
+  Message #586  Write batch record %s => %s.  
+  Message #587  EXITING software %s looking in %s.  
+  Message #588  Opening batch.  
+  Message #589  Do transaction : sending output %s.  
+  Message #590  Do transaction : receiving input %s.  
+  Message #591  Send and wait : sending %s.  
+  Message #592  Send and wait : receiving %s.  
+  Message #593  Delete request file %s -- %s.  
+  Message #594  Closing batch %s.  
+  Message #595  Automatic batch started -- for %s.  
+  Message #596  Batch -- no .FOC file to batch.  
+  Message #597  Batch completed.  
+  Message #598  Automatic batch -- NOT in balance.  
+  Message #599  Automatic batch -- Reconcile -- %s.  
+  Message #600  Automatic batch -- successful -- totals -- %s.  
+  Message #601  Automatic batch -- FAILED -- %s.  
+  Message #602  The credit card batch was NOT successful.  Go to Close Day Status for more information.  
+  Message #603  Edit tips: trans record # %s with the data %s written.  
+  Message #604  Customer %s found.  
+  Message #605  Customer last order check %s on %s.  
+  Message #606  Customer last order %s placed on check.  
+  Message #607  Modifier form exception should be closed but not.  
+  Message #608  A drop must be selected.  
+  Message #609  Drop amount required.  
+  Message #610  Select the employee that will receive the drop.  
+  Message #611  A refund must be selected.  
+  Message #612  A payment must be selected for the refund.  
+  Message #613  A deposit must be selected.  
+  Message #614  Deposit amount required.  
+  Message #615  Time cards exited.  
+  Message #616  Check %s successfully transferred to %s.  
+  Message #617  High speed credit -- ServerIPConfig failed.  Could not initialize.  Error code %s, error message %s.  
+  Message #618  High speed credit -- PingStoredServerList failed.  Could not initialize.  Error code %s, error message %s.  
+  Message #619  Manual batch -- successful %s.  
+  Message #620  Manual batch -- FAILED.  
+  Message #621  Modify Delete command %s items in list box.  
+  Message #622  Starting bank cannot be zero.  
+  Message #623  Declared cash cannot be zero.  
+  Message #624  FTP transfer started.  
+  Message #625  FTP transfer completed.  
+  Message #626  Start internet FTP transfer of file %s size %s.  
+  Message #627  End internet FTP transfer of file %s.  
+  Message #628  FTP Session Connected, error = %s.  
+  Message #629  FTP Request Done : %s %s %s.  
+  Message #630  Station %s started FTPSERV: last reboot %s command line %s.  
+  Message #631  POLLING WILL STOP IF YOU CONTINUE.  ARE YOU ABSOLUTELY CERTAIN?  
+  Message #632  EXITING FTPSERV software running %s looking in %s.  
+  Message #633  FTPSERV message: %s.  
+  Message #635  General internet message %s  
+  Message #636  Rasdial about to dial connection : ras name %s.  
+  Message #637  FTPSERV renaming file %s to %s file size %s.  
+  Message #638  A corporate folder must be specified.  
+  Message #639  The specified corporate path %s does not exist.  
+  Message #640  FTPSERV deleting file %s because incorrect size.  
+  Message #641  %s is already assigned to drawer %s on station %s.  
+  Message #642  Corporate started.  
+  Message #643  The folder %s does not exist.  
+  Message #644  The DSIClient is not installed.  
+  Message #645  Could not initialize DATATRAN.  COM problem on port %s Baud %s Parity %s  
+  Message #646  Error reading the batch file %s.  
+  Message #647  IFACE only available on the station running credit.  
+  Message #648  Continue credit card processing?  
+  Message #649  Check %s capture payment %s.  
+  Message #650  Cannot void a captured payment.  
+  Message #651  Pay using credit card %s?  
+  Message #652  Stop table %s at %s, for charge of %s?  
+  Message #653  Share check %s %s ways?  
+  Message #654  Split %s %s times?  
+  Message #655  Timed item must be stopped before payment can be added.  
+  Message #656  Customer %s order count %s order total %s.  
+  Message #657  Dispatch screen - assign pressed.  
+  Message #658  Dispatch screen - return pressed.  
+  Message #659  Report %s not found for any restaurant.  
+  Message #660  FTPSERV exited.  
+  Message #661  A report filter of groups or restaurants may not have a screen destination.  
+  Message #662  There is no corporate key.  
+  Message #663  Polling data has not been received for a day in the date range %s to %s.  
+  Message #664  Rerouting printer file %s to %s.  
+  Message #665  Price level %s for %s.  
+  Message #666  Cannot archive time cards from the current year.  
+  Message #667  Archive Time Cards before and including date %s?  
+  Message #668  Archive Time Cards began.  
+  Message #669  Archive purge failed, Time Cards NOT archived.  Delete all .tc files.  
+  Message #670  Archive copy file failed, Time Cards NOT archived.  Do NOT archive again.  
+  Message #671  Archive Succeeded!  
+  Message #672  Close Day config archive started %s.  
+  Message #673  Close Day config archive completed.  
+  Message #672  Please make a backup of the timecard file before beginning! Do you want to make a backup copy of the timecard file now?  
+  Message #674  Offline payment record %s %s for record # %s could not be found.  
+  Message #675  Offline transaction file %s deleted.  
+  Message #676  Offline -- Going back online.  
+  Message #677  Offline -- Staying offline -- tryonline.txt deleted.  
+  Message #678  Credit card authorization will STOP.  Go offline?  
+  Message #679  Credit card is now OFFLINE.  
+  Message #680  Credit card offline FAILED (IOResult %s).  
+  Message #681  Credit card authorization will START.  Go Online?  
+  Message #682  Credit card is now ONLINE.  
+  Message #683  Credit card online FAILED (IOResult %s).  
+  Message #684  Offline transactions found.  Will go into offline testing mode.  
+  Message #685  Delete %s menu items?  
+  Message #686  There are OFFLINE transactions.  Can''t settle batch.  
+  Message #687  Archive customers who have not ordered since %s?  
+  Message #688  Archive customers began.  
+  Message #689  Archive copy file failed, customers NOT archived.  Do NOT archive again.  
+  Message #690  Archive customers succeeded!  
+  Message #691  Dispatch heartbeat (last check %s)  
+  Message #692  Dispatch filter (X =  %s)  
+  Message #693  Corporate event %s completed.  
+  Message #694  Corporate event %s occurred.  
+  Message #695  Time Card for %s emp rec # %s time record %s deleted.  
+  Message #696  Update system configuration?  
+  Message #697  Process files reset file %s failed with %s.  
+  Message #698  Process files writeln %s failed with %s.  
+  Message #699  Process files close file %s failed with %s.  
+  Message #700  You have entered Cash of %s.  Is this correct?  
+  Message #701  You have entered Cash of %s and Checks of  %s.  Is this correct?  
+  Message #702  Grauity flat amount cannot be negative.  
+  Message #703  Other high speed credit card processing not on key.  
+  Message #704  Batch form closed by user.  
+  Message #705  Batch summary command completed, status %s.  
+  Message #706  Batch close command completed, status %s.  
+  Message #707  High speed gift card -- ServerIPConfig succeeded.  
+  Message #708  High speed gift card -- response %s.  
+  Message #709  Gift Card/Loyalty processing error of %s %s.  
+  Message #710  Gift Card/Loyalty declined. %s %s.  %s  
+  Message #711  Fingerprint has been registered for %s.  
+  Message #712  An employee must be selected.  
+  Message #713  Require fingerprint scan for time clock?  
+  Message #714  Require fingerprint scan for access?  
+  Message #715  Fingerprint not found.  
+  Message #716  Exception occurred reading fingerprint file %s error # %s.  
+  Message #717  Exception initializing fingerprint device.  
+  Message #718  Exception: credit card processing type changed from other to high speed since startup.  
+  Message #719  Date out too large.  
+  Message #720  Fingerprint required for time clock.  
+  Message #721  Giftcard payment command.  
+  Message #722  High speed credit card -- send %s.  
+  Message #723  High speed credit card -- response %s.  
+  Message #724  Credit card processing error of %s %s.  
+  Message #725  Credit card declined %s %s.  
+  Message #726  No previous check.  
+  Message #727  Quickset performed.  
+  Message #728  Batch source file %s does not exist.  
+  Message #729  Batch destination folder %s already exists.  
+  Message #730  Beginning record must be specified.  
+  Message #731  Please make sure you have a backup copy of the batch before continuing.  Split batch?  
+  Message #732  Split batch successful (%s records moved).  
+  Message #733  Split batch NOT successful.  
+  Message #734  Gift Card %s approved for %s.  A check balance of %s remains!  
+  Message #735  Gift Card %s approved.  Remaining card balance of %s.  
+  Message #736  Gift Card output %s sent.  
+  Message #737  Position of zero may not be entered.  
+  Message #738  Position must not be greater than %s.  
+  Message #739  Transfer all open checks command.  
+  Message #740  Transfer all open checks to %s?  
+  Message #741  %s check(s) transferred to %s.  
+  Message #742  Cannot advance the position on a closed check.  
+  Message #743  Current position command.  
+  Message #744  Edit position command.  
+  Message #745  Remote printer name %s invalid.  
+  Message #746  Split position command.  
+  Message #747  May not split positions if there is a payment on the first seat.  
+  Message #748  May not split positions if there is a discount on the first seat.  
+  Message #749  Customer %s previous balance %s, new charge of %s.  
+  Message #750  Customer %s previous balance %s, new balance of %s entered.  
+  Message #751  Customer account command.  
+  Message #752  Place customer %s on check %s?  
+  Message #753  Remove customer %s from check %s?  
+  Message #754  Cannot void a voided Paid In.  
+  Message #755  Check is unused.  
+  Message #756  Check %s cannot be saved.  %s has a record number of -1.  
+  Message #757  Batch completed.  %s  
+  Message #758  No eligible payment to reprint.  
+  Message #759  Check %s payment %s voucher reprinted from order entry.  
+  Message #760  Import streets?  
+  Message #761  %s streets imported successfully.  
+  Message #762  Refunds entered.  
+  Message #763  Gift Card amount must be an even dollar amount, for example ($10.00), not $10.50.  
+  Message #764  Void the selected gift card?  
+  Message #765  WARNING!!!  Credit card %s for %s was used on check %s.  Continue?  
+  Message #766  Employee %s with current job %s im employee module.  
+  Message #767  Employee %s with record number %s added to list.  
+  Message #768  All data on canvas %s will be lost. Proceed?  
+  Message #769  Cannot delete %s with a non-zero balance!  
+  Message #770  Clear all report columns?  
+  Message #771  Control file read error (exception): %s.  
+  Message #772  Report file name %s is invalid.  
+  Message #773  The primary path ''%s'' is available.  Do you want to switch back to the primary path?  
+  Message #774  Not assigned to a cash drawer, can''t log in.  
+  Message #775  Can''t void a discounted gift card.  
+  Message #776  Computation method must not be set to subtotal %% or subtotal $ if discount gift card is on.  
+  Message #777  Transfer pending check(s) : %s.  
+  Message #778  Purge batch file %s.  
+  Message #779  Credit preauthorization is not allowed when offline.  
+  Message #780  Can''t adjust a payment that is not verified.  
+  Message #781  Can''t adjust a payment that is not a credit card.  
+  Message #782  Can''t adjust a captured payment.  
+  Message #783  Can''t adjust a voided payment.  
+  Message #784  Can''t adjust a pending payment.  
+  Message #785  Can''t adjust a preauthorization payment.  
+  Message #786  Can''t adjust a denied payment.  
+  Message #787  Payment adjust amount of %s must be less than or equal to %s.  
+  Message #788  Can''t adjust an offline payment.  
+  Message #789  Adjust %s payment from %s to %s?  
+  Message #790  May not adjust payment to zero.  
+  Message #791  Payment adjust amount must be less than or equal to the remaining balance of %s.  
+  Message #792  %s is only available on %s.  
+  Message #793  A timed rate item is on the check, print anyway?  
+  Message #794  Seat(s) %s over-tendered.  
+  Message #795  A payment cannot be split.  
+  Message #796  Cannnot adjust a payment if more than one seat %s are currently over-tendered.  
+  Message #797  Cannnot adjust a payment because seat (%s) is currently over-tendered.  
+  Message #798  A payment must be selected.  
+  Message #799  Only one payment may be selected.  
+  Message #800  Operation only allowed for Time Cards for current business date %s.  
+  Message #801  File %s could not be found %s created on the fly.  
+  Message #802  Discount not allowed, would result in an over-tender.  
+  Message #803  Split not allowed on a closed check.  
+  Message #804  Split not allowed from seat after tip entered (if tip greater than gratuity).  
+  Message #805  Split not allowed to seat after tip entered (if tip greater than gratuity).  
+  Message #806  Split sync tip: new tip %s total %s.  
+  Message #807  Split not allowed from seat with an offline payment.  
+  Message #808  Split not allowed to seat with offline payment.  
+  Message #809  Split not allowed of discounted item if gift card discounted.  
+  Message #810  Un-assign check %s?  
+  Message #811  Check %s successfully un-assigned from %s.  
+  Message #812  Check %s will be un-assigned from %s and assigned to %s?  
+  Message #813  Process offline files read file %s failed with %s.  
+  Message #814  Process offline files open file %s failed with %s.  
+  Message #815  Process offline files  find file %s failed.  
+  Message #816  Please read messages before clocking in.  
+  Message #817  Please read messages before clocking out.  
+  Message #818  Checkout report has already been printed.  
+  Message #819  Checkout report cannot be printed with open checks or missing tips.  
+  Message #820  Customer %s loyalty audit: %s  
+  Message #821  Exception IO: erorr # %s string %s  
+  Message #822  Batch can only be recreated on the credit card station %s  
+  Message #823  Recreate batch for %s with %s transaction(s) for %s  
+  Message #824  Batch recreated for %s with %s transaction(s) for %s  
+  Message #825  Batch refunded for %s with %s transaction(s) for %s  
+  Message #826  Reset customer loyalty points and sales information?  
+  Message #827  Exception IO: erorr # %s string %s  
+  Message #828  Discount %s requires a customer to be on check.  
+  Message #829  Customer %s on discount does not match customer %s on check.  
+  Message #830  Customer %s is not a member of loyalty plan %s.  
+  Message #831  Duplicate customer card # %s not allowed.  
+  Message #832  Delete %s customers?  
+  Message #833  Quickset customer performed.  
+  Message #834  Quickset %s customers.  Are you sure?  
+  Message #835  A Media Report may not be e-mailed unless the mask account # is on.  
+  Message #836  Void not allowed.  Check would be over-tendered.  
+  Message #837  Select a payment to reapply.  
+  Message #838  Apply payment %s account # %s?  
+  Message #839  BarVision invlaid event type %s  
+  Message #840  BarVision log routine.  
+  Message #841  BarVision append failed.  
+  Message #842  Customer apartment required.  
+  Message #843  Item %s cannot be ordered until %s is ordered.  
+  Message #844  Serious exception: check %s larger than buffer,  probably circular link for record # %s address %s.  
+  Message #845  The Close Day and Alternate Close Day Station cannot be the same.  
+  Message #846  Corporate download started --  file %s found.  
+  Message #847  Corporate download - exception encountered on unzip of %s.  
+  Message #848  Check printer not defined.  Batch receipt could not print.  
+  Message #849  Scanned item %s not found.  
+  Message #850  Reopen posted inventory?  
+  Message #851  Inventory has not been posted.  It cannot be reopened.  
+  Message #852  Reopen posted invoice?  
+  Message #853  Invoice has not been posted.  It cannot be reopened.  
+  Message #854  Copy report %s over %s?  
+  Message #855  FTP file %s has been successfully received.  
+  Message #856  FTP file %s has failed receiving, code %s, message %s.  
+  Message #857  FTP file delete downloaded file %s succeeded!  
+  Message #858  FTP file delete downloaded file %s failed!  
+  Message #859  FTP file download %s deleted because %s.  
+  Message #860  A download must be selected.  
+  Message #861  Delete download %s?  
+  Message #862  Post download %s?  
+  Message #863  Menu items %s has a record number of %s, too large to update.  
+  Message #864  Corporate file -- download %s copied to %s.  
+  Message #865  Corporate file -- download before records update.  
+  Message #866  Corporate file -- download after records update.  
+  Message #867  Corporate file -- download before unzip.  
+  Message #868  Corporate file -- menu item %s added.  
+  Message #869  A message must be selected.  
+  Message #870  Delete message %s?  
+  Message #871  Send message %s?  
+  Message #872  Corporate file -- download before email update - file %s.  
+  Message #873  Corporate file -- download after email update.  
+  Message #874  Corporate file -- download email %s created for %s  
+  Message #875  Import file %s does not exist.  
+  Message #876  Import file %s?  
+  Message #877  Continue property management interface processing?  
+  Message #878  Import completed.  %s record(s) imported.  
+  Message #879  Change the inventory date to %s?  
+  Message #880  FTP download file %s started.  
+  Message #881  FTP download file %s completed.  
+  Message #882  No eligible preauthorized credit cards records found to finalize.  
+  Message #883  Edit tips for other day parts?  
+  Message #884  FTP transmit of file %s failed.  
+  Message #885  Open %s to %s?  
+  Message #886  %s NOT opened.  Already open.  
+  Message #887  Close %s?  
+  Message #888  Assign %s to %s?  
+  Message #889  Set starting bank on %s to %s?  
+  Message #890  Cash declaration on %s is %s?  
+  Message #891  %s not assigned to a drawer cash tray.  
+  Message #892  Drawer cash tray not opened.  
+  Message #893  Drop %s from %s to %s?  
+  Message #894  Cannot close cash tray %s with missing tips.  
+  Message #895  Only one user may be assigned to %s.  
+  Message #896  A valid inventory worksheet not configured for cash tray %s.  
+  Message #897  A Drawer Report must be selected for the close tray report.  
+  Message #898  An Inventory Worksheet Report must be selected for the inventory worksheet.  
+  Message #899  Cash drawer assignment reindex completed successfully.  
+  Message #900  Still in printer loop %s.  
+  Message #901  Rename schedule %s to %s?  
+  Message #902  Out of system resources.  Try again.  
+  Message #903  Deposit amount must be positive amount.  
+  Message #903  Reset all rerouted printers?  
+  Message #904  Select a printer to reroute.  
+  Message #905  Select a printer to reset.  
+  Message #906  Reroute printer %s to %s?  
+  Message #907  Cancel rerouting for printer %s?  
+  Message #908  Employee %s has access code of zero.  
+  Message #909  The menu item import file %s had the following invalid headings: %s  
+  Message #910  Central message log software started.  
+  Message #911  Exception occurred at %s.  
+  Message #912  Fingerprint required to log in.  
+  Message #913  Can''t void a voided payment.  
+  Message #914  Age verification denied - underage, date %s.  
+  Message #915  Age Verification Approved, date %s.  
+  Message #916  Age must be verified.  Override age requirement?  
+  Message #917  Age verification failed - unable to read ID.  Enter date?  
+  Message #918  A Corporate record may not be modified.  
+  Message #919  A Corporate record may not be deleted.  
+  Message #920  Tips have NOT been entered.  Batch anyway?  
+  Message #921  Return Command.  
+  Message #922  Payment not valid for Returns.  
+  Message #923  Tip exceeds the gift card balance of %s.  
+  Message #924  Discount audit %s -- %s.  
+  Message #925  Exception e-mail configuration.  
+  Message #926  Undelete all employees?  
+  Message #927  %s employees were undeleted.  
+  Message #928  Clean table %s?  
+  Message #929  Can''t clean a table while in use.  
+  Message #930  Can''t clean an open table.  
+  Message #931  Problem with report engine.  Please call your POS solutions provider.  
+  Message #932  MyFocus Backfill started.  
+  Message #933  MyFocus Backfill completed file %s.  
+  Message #934  MyFocus Backfill error file %s, error code %s.  
+  Message #935  MyFocus check file %s processed for uploading.  
+  Message #936  MyFocus check file %s with size of %s does not match size %s, so uploaded again.  
+  Message #937  MyFocus %s read line: %s  
+  Message #938  Create the selected dates?  
+  Message #939  Delete all unused images?  
+  Message #940  Password cannot be blank.  
+  Message #941  Reentered password must be identical.  
+  Message #942  Congratulations!  Password successfully registered.  
+  Message #943  Invalid Password.  
+  Message #944  Account number required.  
+  Message #945  Delete gift card %s?  
+  Message #946  Gift Card account number %s not unique.  
+  Message #947  Gift Card account %s not found.  
+  Message #948  Gift Card account %s not activated.  
+  Message #949  Gift Card account %s found, record number %s.  
+  Message #950  Gift Card account %s disabled.  
+  Message #951  Gift Card account %s has zero balance.  
+  Message #952  Gift Card account %s has already been activated.  
+  Message #953  Gift Card account %s void NOT approved.  Result would be a negative balance.  
+  Message #954  Create Gift Cards %s - %s?  
+  Message #955  %s gift cards created.  
+  Message #956  Gift Card create aborted.  
+  Message #957  Create Future Orders?  
+  Message #958  Delete Future Order check number %s for %s?  
+  Message #959  A future order requires a date greater than or equal to today''s date.  
+  Message #960  A future order requires a time.  
+  Message #961  Operation not allowed on a future order.  
+  Message #962  Future Order check number %s moved to %s.  
+  Message #963  Move the order for %s on %s to the current day?  
+  Message #964  MyFocus procedure started.  
+  Message #965  MyFocus procedure ended.  
+  Message #966  Share not allowed on checks with gift cards.  
+  Message #967  The following printer(s) have errors: %s  
+  Message #968  Credit cards are currently OFFLINE.  
+  Message #969  The following special pricing is active: %s  
+  Message #970  Payment Adjust not allowed for NetEPay credit card processing.  
+  Message #971  Preauth not allowed for NetEPay credit card processing.  
+  Message #972  MyFocus Get Information from MyFocus started.  
+  Message #973  MyFocus Last Token complete file %s.  
+  Message #974  MyFocus Last Token error file %s, error code %s.  
+  Message #975  MyFocus Gift Card SOAP Creation failed  
+  Message #976  MyFocus Gift Card SOAP Initialize failed.  
+  Message #977  MyFocus files in Internet folder that have not bee sent yet.  
+  Message #978  MyFocus unprocessed files on MyFocus found.  
+  Message #979  Can''t post with item(s) on hold.  
+  Message #980  Can''t post with item(s) that have not been sent.  
+  Message #981  Already posted.  
+  Message #982  Cannot void an item if points record on seat.  
+  Message #983  Cannot discount an item if points have been posted.  
+  Message #984  Cannot split a seat that has a points record.  
+  Message #985  Cannot void points transaction, already voided.  
+  Message #986  Void the selected points transaction?  
+  Message #987  Points Add failed for the following reason: %s  
+  Message #988  Points Void failed for the following reason: %s  
+  Message #989  Inventory Stock to Purchase Conversion cannot be zero.  
+  Message #990  Discount ID %s not found.  
+  Message #991  Exception: Check class destroyed but open/close count %s not zero for folder %s.  
+  Message #992  Create datafeed for %s?  
+  Message #993  %s files will be created. Continue?  
+  Message #994  Price Level Command for item %s change from price %s to price %s.  
+  Message #995  Price Level Command: Item must be selected.  
+  Message #996  Price Level Command: Only one item may be selected.  
+  Message #997  Price Level Command: Item may not be sent.  
+  Message #998  Price Level Command: Item may not be voided.  
+  Message #999  Price Level Command: Item may not be discounted.  
+  Message #1000 Price Level Command: Item may not be a modifier.  
+  Message #1001 Price Level Command: Item must have a price level.  
+  Message #1002 Player points must be restored through Aristocrat.  
+  Message #1003 Delete the Auto Combo element %s?  
+  Message #1004 Auto Combo Type required.  
+  Message #1005 Auto Combo Item required.  
+  Message #1006 Auto Combo Quantity required.  
+  Message #1007 Would you like to make it a %s for savings of %s?  
+  Message #1008 Check must be subtotaled before payment is allowed.  
+  Message #1009 Time Clock may not be used for the employee currently logged in.  
+  Message #1010 Time Clock operation approved by %s.  
+  Message #1011 Hard Key Expired.  Expiration date of %s  
+  Message #1012 MyFocus time card edited om date %s so uploading check file.  
+  Message #1013 Scheduled to work next at %s as %s.  
+  Message #1014 One ore more items may not be placed on Hold (see Locations > Hold Menu Item Filter).  
+  Message #1015 Apply VIP Pricing (%s) to the current check?  
+  Message #1016 (%s) VIP pricing has been applied previously. Apply VIP pricing (%s) to the current check?  
+  Message #1017 Transfer Tab -- Check Number %s with %s.  
+  Message #1018 Auto Combo - A Master Item is required if ''Remove'' is set to ''Yes''.  
+  Message #1019 Must read mail before it can be deleted.  
+  Message #1020 Position Review command.  
+  Message #1021 Position Review not allowed on a closed check.  
+  Message #1022 The configuration file %s does not exist.  
+  Message #1023 %s may not receive a refund greater than the credit on the account of %s.  
+  Message #1024 Employee %s must be on the clock to assign to a team.  
+  Message #1025 A team must be selected.  
+  Message #1026 Exception processing credit card direct.  
+  Message #1027 Points transaction declined. %s %s.  
+  Message #1028 Employee %s is already on Team %s.  
+  Message #1029 Team Member: %s released from Team %s.  
+  Message #1030 Team Saved: Team #%s with members %s.  
+  Message #1031 A check must be open to post points.  
+  Message #1032 A check must be open to adjust points.  
+  Message #1033 Check %s moved from team %s to team %s  
+  Message #1034 Discount may not be deleted with points.  Must void the points record first.  
+  Message #1035 The order type of a closed check can not be changed.  Cancel the pending delivery?  
+  Message #1036 The e-mail %s was successfully sent.  
+  Message #1037 The e-mail %s was NOT sent.  
+  Message #1038 You have messages.  Would you like to read them now?  
+  Message #1039 The credit card processor option %s was not found on the key.  The option on the key is set to %s.      
+  Message #1043 The First Data credit card processor Register procedure FAILED.  
+  Message #1044 The First Data credit card processor Register procedure succeeded.  
+  Message #1045 Exception while credit card processing: %s  
+  Message #1046 Credit card number invalid.  
+  Message #1047 Batch could not rename batch file from %s to %s,= (Error %s).  
+  Message #1048 Hardware key is old format and must be updated.  
+  Message #1049 Encryption key rotated successfully.  
+  Message #1050 Rotate the PCI encryption key?  
+  Message #1051 Password must contain 7 characters including one number and one special character.  
+  Message #1052 The new password does not match the retyped password.  Please retype.  
+  Message #1053 Password must contain 7 characters including one number and one special character.  
+  Message #1054 The password must be different than the last four passwords.  
+  Message #1055 The old password does not match the password on file.  
+  Message #1056 Maximum password attempts have been exceeded.  Must wait 30 minutes before retrying.  
+  Message #1057 Password has expired.  A new password must be entered.  
+  Message #1058 Incorrect password.  
+  Message #1059 Reset password for employee %s?  
+  Message #1060 Password successfully reset for employee %s.  
+  Message #1061 Password has been reset. Please create a new password.  
+  Message #1062 CC Detail - Before Verification  
+  Message #1063 CC Detail - After Verification  
+  Message #1064 CC Detail - Before Compute  
+  Message #1065 CC Detail - Before Save  
+  Message #1066 CC Detail - After Save  
+  Message #1067 CC Detail - Background In On Screen Condition  
+  Message #1068 CC Detail - Background In NOT On Screen Condition.  
+  Message #1069 CC Detail - Background In On Screen Condition Completed  
+  Message #1070 CC Detail - Background In NOT On Screen Condition Completed  
+  Message #1071 Could not rename transaction file from %s to %s,= (Error %s).  
+  Message #1072 Delete answer file %s failed -- %s.  
+  Message #1073 Create an encryption key on drive %s:?  
+  Message #1074 Encryption key created successfully on %s.  
+  Message #1075 IPLog Audit: %s  
+  Message #1076 An Address, City and State are required to display a map.  
+  Message #1077 The First Data gift card processor Register procedure succeeded.  
+  Message #1078 The First Data gift card processor Register procedure FAILED.  
+  Message #1079 First Data Gift Processing Error: %s  
+  Message #1080 First Data Gift Processing Progress: %s  
+  Message #1081 Could not rename gift transaction file from %s to %s,= (Error %s).  
+  Message #1082 Tips and wages of %s do not satisfy the Minimum Wage Requirement of %s.  
+  Message #1083 CONGRATULATIONS! %s Completed.  CONGRATULATIONS!  
+  Message #1084 Date too small.  
+  Message #1085 Online Order File %s found.  
+  Message #1086 Online Order File Reading Error %s on operation %s.  
+  Message #1087 ONLINE ORDERING Alive: Looking in %s  
+  Message #1088 Online Order Delete File %s Failure %s  
+  Message #1089 Online Order Error: %s  
+  Message #1090 Online Order Employee Clocked In: %s  
+  Message #1091 Online Order Reading Completed  
+  Message #1092 Online Order Processing Begins: %s  
+  Message #1093 Online Order Processing Ends: %s  
+  Message #1094 Online Order Processing Employee ClockIn Procedure Successful: %s  
+  Message #1095 Online Order Processing Parse Online Order Complete  
+  Message #1096 Online Order Processing Comment and Online Order Menu Items Load Successful.  
+  Message #1097 Online Check %s item %s added.  
+  Message #1098 MyFocus General Message Logging: %s  
+  Message #1099 Online Order Completed  
+  Message #1100 Online Order After Processing Menu Items  
+  Message #1101 Online Order Processing Menu Item %s  
+  Message #1102 Online Order Processing Modifier %s  
+  Message #1103 The Minimum Price of %s has not been satisfied.  
+  Message #1104 The Maximim Price of %s has been exceeded.  
+  Message #1105 Refund not allowed while a check is on the screen.  
+  Message #1106 Extend the file %s?  
+  Message #1107 ID2 must be entered.  
+  Message #1108 Tip must be less than or equal to the remaining balance of %s.  
+  Message #1109 Search Criteria not specified.  
+  Message #1110 Paymentech Gift Processing Progress: %s  
+  Message #1111 Paymentech Gift Processing Error: %s  
+  Message #1112 CC Detail - Processing Thread %s  
+  Message #1113 QSR Error Message %s  
+  Message #1114 QSR Audit Message %s  
+  Message #1115 QSR IP Address not defined  
+  Message #1116 Delayed print modify time command %s.  
+  Message #1117 There is no order to modify for check %s.  
+  Message #1118 Delay the printing of check %s until %s?  
+  Message #1119 Delay printing of check %s renamed from %s to %s  
+  Message #1120 Delayed print cancel command %s.  
+  Message #1121 There is no order to cancel for check %s.  
+  Message #1122 Cancel printing of check %s?  
+  Message #1123 Delay printing of check %s - file name %s.  
+  Message #1124 Zip Code must be five characters.  
+  Message #1125 TOut Processing Begins: %s  
+  Message #1126 TOut File %s found.  
+  Message #1127 TOut File Reading Error %s on operation %s.  
+  Message #1128 TOut Reading Completed  
+  Message #1129 TOut Delete File %s Failure %s  
+  Message #1130 TOUT Alive: Looking in %s  
+  Message #1131 TOut Employee ClockIn Procedure Successful: %s  
+  Message #1132 TOut Processing Parse Complete: Trans Type: %s TabID %s  
+  Message #1133 TOut Error: %s  
+  Message #1134 TOut Start Tab Reservation Started  
+  Message #1135 TOut Start Tab Reservation Completed : Return Code %s, Return Message %s  
+  Message #1136 TOut Start Tab Reservation After Start Check: Result %s  
+  Message #1137 TOut Start Tab Reservation After Cleanse  
+  Message #1138 TOut Start Tab Reservation After Save Check  
+  Message #1139 TOut Processing Completed %s  
+  Message #1140 TOut Cancel Tab Reservation Started  
+  Message #1141 TOut Cancel Tab Reservation Completed : Return Code %s, Return Message %s  
+  Message #1142 TOut After SetValuesFromTable Result %s  
+  Message #1143 TOut Query Tab Reservation Started  
+  Message #1144 TOut Query Tab Reservation Completed : Return Code %s, Return Message %s  
+  Message #1145 Tabbedout Pay Tab Started  
+  Message #1146 Tabbedout Pay Tab Completed : Return Code %s, Return Message %s  
+  Message #1147 A check must be used to apply the Tabbedout ID.  
+  Message #1148 Cannot apply a Tabbedout ID to a closed check.  
+  Message #1149 Tab ID %s could not be found.  
+  Message #1150 Attach Tabbedout ID %s to Check %s?  
+  Message #1151 Attach Tabbedout ID from check %s to check %s.  
+  Message #1152 Tabbedout Audit Command  
+  Message #1153 Delayed print of check %s cancelled.  
+  Message #1154 Card number %s does not match any previously captured cards.  Continue using new card?  
+  Message #1155 TOut Public Key Create Error %s  
+  Message #1156 TOut Get Public Key Started  
+  Message #1157 TOut Get Public Key Completed : Return Message %s  
+  Message #1158 TOut Information: %s  
+  Message #1159 Time Card overlap %s.  
+  Message #1160 Unsplit item requires an item be selected.  
+  Message #1161 Only one item may be selected to Unsplit.  
+  Message #1162 A Modifier may not be selected for Unsplit.  
+  Message #1163 Unsplit %s?  
+  Message #1164 Unsplit not allowed on an item that has not been split.  
+  Message #1165 Unsplit not allowed on a check with a payment.  
+  Message #1166 Unsplit not allow if item has been discounted.  
+  Message #1167 Unsplit not allow if item has been voided.  
+  Message #1168 Unsplit not allow if not all parts of the split item found on the check.  
+  Message #1169 The minimum credit amount has not been reached.  Do you want to continue?  
+  Message #1170 Continue Tabbedout processing?  
+  Message #1171 Add the following points %s?  
+  Message #1172 Alert Sent: %s  
+  Message #1173 Alert Response: %s  
+  Message #1174 Quantity not allowed for scale items.  
+  Message #1175 Performance: %s  
+  Message #1176 Mobile Processing Begins: %s  
+  Message #1177 Mobile File %s found.  
+  Message #1178 Mobile File Reading Error %s on operation %s.  
+  Message #1179 Mobile Reading Completed  
+  Message #1180 Mobile Delete File %s Failure %s  
+  Message #1181 MOBILE Alive: Looking in %s  
+  Message #1182 Mobile Processing Parse Complete: Trans Type: %s  
+  Message #1183 Mobile Error: %s  
+  Message #1184 Mobile Processing Completed %s  
+  Message #1185 A Menu Item must be selected.  
+  Message #1186 Advance amount %s exceeds maximum amount of %s.  Is this correct?  
+  Message #1187 TOut Delete Container Failed %s.  
+  Message #1188 TOut CAPI Provider Create Failed %s.  
+  Message #1189 TOut - CAPI Key Create Failed %s.  
+  Message #1190 Transfer seats from check %s to check %s.  
+  Message #1191 Alerts key required.  
+  Message #1192 PMS Detail - Processing Thread %s  = aszGlobalMessage7 ;
+  Message #1193 PMS still alive : looking in %s.  
+  Message #1194 Export schedule file %s?  
+  Message #1195 Batch transaction count of exceeds the allowed maximum.  Split Batch?  
+  Message #1196 Batch Checking for large number of transactions error: %s.  
+  Message #1197 The maximum credit tip amount has been exceeded.  Do you want to continue?  
+  Message #1198 There are missing tips.  Close Tray?  
+  Message #1199 QSR Delay Print Thread Alive  
+  Message #1200 Start QSR Delayed Order of check %s file size %s.  
+  Message #1201 End QSR Delayed Order of check %s.  
+  Message #1202 Remote Delayed Order File error (exception): %s.  
+  Message #1203 Delayed Order Processing problem.  Error: %s  
+  Message #1204 Conversion required to proceed.  
+  Message #1205 Checks may not be accessed by table number.  
+  Message #1206 Course Review not allowed on a closed check.  
+  Message #1207 Split Batch Audit Message: %s  
+  Message #1208 Import streets from the file street.txt?  
+  Message #1209 Credit card tip exceeds First Data limit of 999.99.  
+  Message #1210 Credit card append batch record failed: %s  
+  Message #1211 Loyalty Request Audit: %s  
+  Message #1212 Loyalty Response Audit: %s  
+  Message #1213 Loyalty Error Occurred: %s  
+  Message #1214 Add the following %s: %s?  
+  Message #1215 %s Added %s.  
+  Message #1216 %s Subtracted %s.  
+  Message #1217 %s Posted %s.  
+  Message #1218 The ''Payments - Zero Price Tender Even Restriction'' Job Right is required.  
+  Message #1219 Cannot print a check with items on Hold.  
+  Message #1220 Mobile Public Key Create Error %s  
+  Message #1221 Time Clock not available from current station.  
+  Message #1222 Checks may not be accessed by check number.  
+  Message #1223 Key not found. You may ring %s more checks before system shuts down.  
+  Message #1224 Menu Item cannot be assigned to the report group %s  
+  Message #1225 Mobile Logging: %s  
+  Message #1226 Certification Date expired on %s.  
+  Message #1227 Station CC Verify Process still alive : looking in %s.  
+  Message #1228 Station MyFocus Process still alive : looking in %s.  
+  Message #1229 Is the payment amount %s correct?  
+  Message #1231 Transfer the selected seat(s)?  
+  Message #1232 Transfer seat %s from check %s to check %s.  
+  Message #1233 All seats cannot be transferred. One seat must remain.  
+  Message #1234 A seat must be selected to transfer.  
+  Message #1235 Future Order Maintenance Performed  
+  Message #1236 Check must be used to assign a customer.  
+  Message #1237 Check must be open to assign a customer.  
+  Message #1238 Assign check %s to customer %s?  
+  Message #1239 Exception: Printer Thread Recreate Start  
+  Message #1240 Exception: Printer Thread Recreate End  
+  Message #1241 OpenTable Logging: %s  
+  Message #1242 Open Table Thread Alive  
+  Message #1243 Adjust the current balance of %s account(s) to %s?  
+  Message #1244 Paid Out Voucher %s reprint for %s  
+  Message #1245 Loyalty authorization will STOP.  Go offline?  
+  Message #1246 Loyalty is now OFFLINE.  
+  Message #1247 Loyalty offline FAILED (IOResult %s).  
+  Message #1248 Loyalty authorization will START.  Go Online?  
+  Message #1249 Loyalty is now ONLINE.  
+  Message #1250 Loyalty online FAILED (IOResult %s).  
+  Message #1251 Discount not applied.  The check subtotal must be greater than %s.  
+  Message #1252 Hostess Record %s does not exist.  
+  Message #1253 Exception: Seek on hostess file failed : value %s.  
+  Message #1254 Hostess record  %s record # %s at byte %s.  
+  Message #1255 Hostess %s record # lock failed.  
+  Message #1256 Are you sure you want to print all %s check(s)?  
+  Message #1257 A mobile number must be entered.  
+  Message #1258 An account or mobile number must be entered.  
+  Message #1260 Phone number %s not found.  Add new member?  
+  Message #1261 Phone number must be ten digits.  
+  Message #1262 Error number %s maintaining drop totals : %s.  
+  Message #1263 Error maintaining drop totals : %s.  
+  Message #1264 Drop Warning.  Drawer limit exceeded  
+  Message #1265 Phone number %s not found.  
+  Message #1266 Training Mode Active  
+  Message #1267 Audit Cmd: %s   
+  Message #1268 Job %s is not accessible.  It may not be modified.    
+  Message #1269 %s Posted %s.  Reward: %s  
+  Message #1270 FTP Forced Disconnection %s  
+  Message #1271 FTP Generic Message: %s  
+  Message #1272 Check %s mobile payment code %s entered.  
+  Message #1273 A tax must be selected.  
+  Message #1274 Append data duplicate seek address error: %s  
+  Message #1275 Download Audit: %s  
+  Message #1276 Apply %s as a tip?  
+  Message #1277 Exception: Printer thread did NOT terminate %s.  
+  Message #1278 Please select a loyalty plan.  
+  Message #1279 Loyalty is currently OFFLINE.  
+  Message #1280 A message reply is required.  
+  Message #1281 Combine %s seats?  
+  Message #1282 Valid credit card not available.  
+  Message #1283 Adjust the current balance of account %s to %s?  
+  Message #1284 Is tip amount %s correct?  
+  Message #1285 Check item %s record # %s at byte %s.  
+  Message #1286 Price Change Command for item %s change from price %s to price %s.  
+  Message #1287 Price Change Command: Item must be selected.  
+  Message #1288 Price Change Command: Only one item may be selected.  
+  Message #1289 Price Change Command: Item may not be sent.  
+  Message #1290 Price Change Command: Item may not be voided.  
+  Message #1291 Price Change Command: Item may not be discounted.  
+  Message #1292 Function not allowed for External Schedules.  
+  Message #1293 Audit: Drawer Assignment: Employee %s Time Record %s Station/Drawer %s.  
+  Message #1294 EMV Communications Error: %s  
+  Message #1295 EMV Audit Response: %s  
+  Message #1296 EMV Parse Error: %s  
+  Message #1297 EMV Processing failed.  
+  Message #1298 EMV Credit Credit Card Denied: %s  
+  Message #1299 Edit tips of an EMV transaction is not allowed.  
+  Message #1300 Find not allowed for EMV transactions.  
+  Message #1301 Charge to %s?     
+  Message #1302 General debugging message: %s %s %s     
+  Message #1303 EMV Response file %s log: %s     
+  Message #1304 EMV log check file %s renamed.  
+  Message #1305 EMV Log file %s not found  
+  Message #1306 EMV Log file read error: %s  
+  Message #1307 EMV Log file missing RecordNo data  
+  Message #1308 EMV Log file missing AcqRefData data  
+  Message #1309 EMV Log file missing ProcessData data  
+  Message #1310 EMV Log file missing RefNo data  
+  Message #1311 EMV Log file missing InvoiceNo data  
+  Message #1312 EMV does not allow manual credit card entries.  
+  Message #1313 A beverage is required for each guest. %s or more beverages must be ordered before the check can be printed.  
+  Message #1314 A beverage is required for each guest. %s or more beverages were expected. Do you want to print the check?  
+  Message #1315 The beverage requirement has not been met. %s or more beverages must be ordered before the check can be subtotaled.  
+  Message #1316 The beverage requirement has not been met. %s or more beverages were expected. Do you wish to subtotal the check?  
+  Message #1317 Fingerprint error: %s  
+  Message #1318 Credit card operation: %s not permitted with EMV credit.  
+  Message #1319 %s checks will be printed.  Are you ABSOLUTELY SURE?  
+  Message #1320 Partial payment tendered.  Check has a remaining balance of %s.  
+  Message #1321 Fishbowl %s.  
+

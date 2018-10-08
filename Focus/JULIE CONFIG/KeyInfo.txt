@@ -1,0 +1,1 @@
+'VERSION=16.8.29','HW Key=4253','Stations=3','PMS=NO,'BOF=YES','EMR=NO','SCH=YES','INV=YES','CUS=NO','GFT=NO','IPL=NO','XML=NO','ONL=NO','ALR=NO','OTB=NO','SQL=NO','HOT=NO','MST=0','CRED=Mercury','UPGRADE=UNLIMITED','Focus Cafe','Dealer=Focus POS California'

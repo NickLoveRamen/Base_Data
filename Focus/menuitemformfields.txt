@@ -1,0 +1,154 @@
+Field Name                                        	Field Type          	Data Type 	Mask                	Length	None
+                                                  	                    	          	                    	 	Allowed
+ 
+EditMenuName                                      	TEdit               	string    	                    	32	F
+EditCheckName                                     	TEdit               	string    	                    	23	F
+CheckBoxVariablePrice                             	TCheckBox           	boolean   	                    	0	F
+CheckBoxRepeatRound                               	TCheckBox           	boolean   	                    	0	F
+CheckBoxKitchenComment                            	TCheckBox           	boolean   	                    	0	F
+CheckBoxFollowItem                                	TCheckBox           	boolean   	                    	0	F
+CheckBoxRequiresBeverage                          	TCheckBox           	boolean   	                    	0	F
+CheckBoxSatisfiesBeverage                         	TCheckBox           	boolean   	                    	0	F
+CheckBoxKitchenPrice                              	TCheckBox           	boolean   	                    	0	F
+CheckBoxOutOfStock                                	TCheckBox           	boolean   	                    	0	F
+CheckBoxScale                                     	TCheckBox           	boolean   	                    	0	F
+CheckBoxRequestTareWeight                         	TCheckBox           	boolean   	                    	0	F
+CheckBoxIncrementGuests                           	TCheckBox           	boolean   	                    	0	F
+CheckBoxIncludeInItemPrice                        	TCheckBox           	boolean   	                    	0	F
+CheckBoxCountdown                                 	TCheckBox           	boolean   	                    	0	F
+CheckBoxGuestCheck                                	TCheckBox           	boolean   	                    	0	F
+CheckBoxFractionQuantity                          	TCheckBox           	boolean   	                    	0	F
+CheckBoxInventoriable                             	TCheckBox           	boolean   	                    	0	F
+CheckBoxFoodStampEligible                         	TCheckBox           	boolean   	                    	0	F
+CheckBoxTimedRate                                 	TCheckBox           	boolean   	                    	0	F
+CheckBoxSteeringModifier                          	TCheckBox           	boolean   	                    	0	F
+CheckBoxRequireApproval                           	TCheckBox           	boolean   	                    	0	F
+CheckBoxReclassifyTax                             	TCheckBox           	boolean   	                    	0	F
+CheckBoxQuantityPrompt                            	TCheckBox           	boolean   	                    	0	F
+CheckBoxPositionPrompt                            	TCheckBox           	boolean   	                    	0	F
+CheckBoxConversationalMods                        	TCheckBox           	boolean   	                    	0	F
+SpecterNewComboBoxModifyingCanvas1                	TSpecterNewComboBox 	smallint  	                    	250	T
+SpecterNewComboBoxModifyingCanvas2                	TSpecterNewComboBox 	smallint  	                    	250	T
+SpecterNewComboBoxModifyingCanvas3                	TSpecterNewComboBox 	smallint  	                    	250	T
+SpecterNewComboBoxModifyingCanvas4                	TSpecterNewComboBox 	smallint  	                    	250	T
+SpecterNewComboBoxModifyingCanvas5                	TSpecterNewComboBox 	smallint  	                    	250	T
+SpecterNewComboBoxModifyingCanvas6                	TSpecterNewComboBox 	smallint  	                    	250	T
+SpecterNewComboBoxModifyingCanvas7                	TSpecterNewComboBox 	smallint  	                    	250	T
+SpecterNewComboBoxModifyingCanvas8                	TSpecterNewComboBox 	smallint  	                    	250	T
+OvcNumericFieldMin1                               	TOvcNumericField    	shortint  	99                  	0	F
+OvcNumericFieldMax1                               	TOvcNumericField    	shortint  	99                  	0	F
+OvcNumericFieldMin2                               	TOvcNumericField    	shortint  	99                  	0	F
+OvcNumericFieldMax2                               	TOvcNumericField    	shortint  	99                  	0	F
+OvcNumericFieldMin3                               	TOvcNumericField    	shortint  	99                  	0	F
+OvcNumericFieldMax3                               	TOvcNumericField    	shortint  	99                  	0	F
+OvcNumericFieldMin4                               	TOvcNumericField    	shortint  	99                  	0	F
+OvcNumericFieldMax4                               	TOvcNumericField    	shortint  	99                  	0	F
+OvcNumericFieldMin5                               	TOvcNumericField    	shortint  	99                  	0	F
+OvcNumericFieldMax5                               	TOvcNumericField    	shortint  	99                  	0	F
+OvcNumericFieldMin6                               	TOvcNumericField    	shortint  	99                  	0	F
+OvcNumericFieldMax6                               	TOvcNumericField    	shortint  	99                  	0	F
+OvcNumericFieldMin7                               	TOvcNumericField    	shortint  	99                  	0	F
+OvcNumericFieldMax7                               	TOvcNumericField    	shortint  	99                  	0	F
+OvcNumericFieldMin8                               	TOvcNumericField    	shortint  	99                  	0	F
+OvcNumericFieldMax8                               	TOvcNumericField    	shortint  	99                  	0	F
+OvcNumericFieldFree1                              	TOvcNumericField    	shortint  	99                  	0	F
+OvcNumericFieldFree2                              	TOvcNumericField    	shortint  	99                  	0	F
+OvcNumericFieldFree3                              	TOvcNumericField    	shortint  	99                  	0	F
+OvcNumericFieldFree4                              	TOvcNumericField    	shortint  	99                  	0	F
+OvcNumericFieldFree5                              	TOvcNumericField    	shortint  	99                  	0	F
+OvcNumericFieldFree6                              	TOvcNumericField    	shortint  	99                  	0	F
+OvcNumericFieldFree7                              	TOvcNumericField    	shortint  	99                  	0	F
+OvcNumericFieldFree8                              	TOvcNumericField    	shortint  	99                  	0	F
+CheckListBoxTaxes                                 	TCheckListBox       	          	                    	16	F
+SpecterNewComboBoxPrinterGroup                    	TSpecterNewComboBox 	smallint  	                    	32	F
+SpecterNewComboBoxReportGroup                     	TSpecterNewComboBox 	smallint  	                    	100	F
+OvcNumericFieldCount                              	TOvcNumericField    	integer   	iiiiii              	0	F
+SpecterNewComboBoxMealStage                       	TSpecterNewComboBox 	smallint  	                    	6	F
+SpecterNewComboBoxPriceTime1                      	TSpecterNewComboBox 	smallint  	                    	32	T
+SpecterNewComboBoxPriceTime2                      	TSpecterNewComboBox 	smallint  	                    	32	T
+SpecterNewComboBoxPriceTime3                      	TSpecterNewComboBox 	smallint  	                    	32	T
+SpecterNewComboBoxPriceTime4                      	TSpecterNewComboBox 	smallint  	                    	32	T
+SpecterNewComboBoxPriceTime5                      	TSpecterNewComboBox 	smallint  	                    	32	T
+SpecterNewComboBoxPriceTime6                      	TSpecterNewComboBox 	smallint  	                    	32	T
+SpecterImage1                                     	TSpecterImage       	string    	                    	0	F
+OvcNumericFieldPriority                           	TOvcNumericField    	shortint  	99                  	0	F
+SpecterNewComboBoxPriceLevel                      	TSpecterNewComboBox 	smallint  	                    	150	T
+SpecterNewComboBoxType                            	TSpecterNewComboBox 	smallint  	                    	3	F
+OvcNumericFieldPrice1                             	TOvcNumericField    	          	$#####.##           	0	F
+OvcNumericFieldPrice2                             	TOvcNumericField    	          	$#####.##           	0	F
+OvcNumericFieldPrice3                             	TOvcNumericField    	          	$#####.##           	0	F
+OvcNumericFieldPrice4                             	TOvcNumericField    	          	$#####.##           	0	F
+OvcNumericFieldPrice5                             	TOvcNumericField    	          	$#####.##           	0	F
+OvcNumericFieldPrice6                             	TOvcNumericField    	          	$#####.##           	0	F
+OvcNumericFieldSubprice                           	TOvcNumericField    	          	$#####.##           	0	F
+OvcNumericFieldExtraPrice                         	TOvcNumericField    	          	$#####.##           	0	F
+OvcNumericFieldModPrice                           	TOvcNumericField    	          	$#####.##           	0	F
+OvcNumericFieldNoPrice                            	TOvcNumericField    	          	$#####.##           	0	F
+OvcNumericFieldDoublePercentage                   	TOvcNumericField    	          	#.##                	0	F
+SpecterNewComboBoxCourse                          	TSpecterNewComboBox 	smallint  	                    	12	T
+OvcNumericFieldCost                               	TOvcNumericField    	double    	$####.##            	0	F
+EditSort                                          	TOvcPictureField    	string    	XX                  	2	F
+EditRemoteName                                    	TEdit               	string    	                    	23	F
+EditID1                                           	TEdit               	string    	                    	23	F
+EditID2                                           	TEdit               	string    	                    	23	F
+OvcNumericFieldModifierUnits                      	TOvcNumericField    	shortint  	99                  	0	F
+EditSearch1                                       	TEdit               	string    	                    	0	F
+SpecterNewComboBoxReportGroupSearch1              	TSpecterNewComboBox 	smallint  	                    	101	F
+SpecterNewComboBoxPrinterGroupSearch1             	TSpecterNewComboBox 	smallint  	                    	33	F
+SpecterNewComboBoxMenuItemFilterSearch1           	TSpecterNewComboBox 	smallint  	                    	300	F
+SpecterNewComboBoxCanvasSearch1                   	TSpecterNewComboBox 	smallint  	                    	251	F
+OvcNumericFieldConcept                            	TOvcNumericField    	shortint  	99                  	0	F
+SpecterNewComboBoxDependentItem                   	TSpecterNewComboBox 	smallint  	                    	1550	T
+FocusFilenameEditRecipeFile                       	TFocusFileNameEdit  	string    	                    	0	F
+FocusFilenameEditTrainingFile                     	TFocusFileNameEdit  	string    	                    	0	F
+FocusFilenameEditNutritionFile                    	TFocusFileNameEdit  	string    	                    	0	F
+SpecterNewComboBoxEffectiveTimeRange              	TSpecterNewComboBox 	smallint  	                    	33	T
+FocusFilenameEditAudioFile                        	TFocusFileNameEdit  	string    	                    	0	F
+SpecterNewComboBoxTareWeight                      	TSpecterNewComboBox 	smallint  	                    	20	T
+FocusDateEditFromDate                             	TOvcPictureField    	date      	mm/dd/yyyy          	10	F
+FocusDateEditToDate                               	TOvcPictureField    	date      	mm/dd/yyyy          	10	F
+OvcNumericFieldCookTime                           	TOvcNumericField    	shortint  	99                  	0	F
+SpecterNewComboBoxPrinterFormat                   	TSpecterNewComboBox 	smallint  	                    	15	T
+EditSuggestionID                                  	TEdit               	string    	                    	23	F
+OvcNumericFieldIncrementGuests                    	TOvcNumericField    	shortint  	99                  	0	F
+OvcNumericFieldSatifiesGuests                     	TOvcNumericField    	shortint  	99                  	0	F
+EditInternalID                                    	TEdit               	string    	                    	0	F
+CheckBoxDisplayPrice                              	TCheckBox           	boolean   	                    	0	F
+EditSearch2                                       	TEdit               	string    	                    	0	F
+SpecterNewComboBoxReportGroupSearch2              	TSpecterNewComboBox 	smallint  	                    	101	F
+SpecterNewComboBoxPrinterGroupSearch2             	TSpecterNewComboBox 	smallint  	                    	33	F
+SpecterNewComboBoxMenuItemFilterSearch2           	TSpecterNewComboBox 	smallint  	                    	300	F
+SpecterNewComboBoxCanvasSearch2                   	TSpecterNewComboBox 	smallint  	                    	251	F
+SpecterNewComboBoxAutomaticCanvasScreenFormat     	TSpecterNewComboBox 	smallint  	                    	100	T
+CheckListBoxCanvases                              	TCheckListBox       	          	                    	250	F
+EditSearch3                                       	TEdit               	string    	                    	0	F
+SpecterNewComboBoxReportGroupSearch3              	TSpecterNewComboBox 	smallint  	                    	101	F
+SpecterNewComboBoxPrinterGroupSearch3             	TSpecterNewComboBox 	smallint  	                    	33	F
+SpecterNewComboBoxMenuItemFilterSearch3           	TSpecterNewComboBox 	smallint  	                    	300	F
+SpecterNewComboBoxCanvasSearch3                   	TSpecterNewComboBox 	smallint  	                    	251	F
+SpecterNewComboBoxRecipeItem1                     	TSpecterNewComboBox 	smallint  	                    	3	T
+SpecterNewComboBoxRecipeItem2                     	TSpecterNewComboBox 	smallint  	                    	3	T
+SpecterNewComboBoxRecipeItem3                     	TSpecterNewComboBox 	smallint  	                    	3	T
+SpecterNewComboBoxRecipeItem4                     	TSpecterNewComboBox 	smallint  	                    	3	T
+SpecterNewComboBoxRecipeItem5                     	TSpecterNewComboBox 	smallint  	                    	3	T
+SpecterNewComboBoxRecipeItem6                     	TSpecterNewComboBox 	smallint  	                    	3	T
+SpecterNewComboBoxRecipeItem7                     	TSpecterNewComboBox 	smallint  	                    	3	T
+SpecterNewComboBoxRecipeItem8                     	TSpecterNewComboBox 	smallint  	                    	3	T
+SpecterNewComboBoxRecipeItem9                     	TSpecterNewComboBox 	smallint  	                    	3	T
+SpecterNewComboBoxRecipeItem10                    	TSpecterNewComboBox 	smallint  	                    	3	T
+OvcNumericFieldQty1                               	TOvcNumericField    	          	###.###             	0	F
+OvcNumericFieldQty2                               	TOvcNumericField    	          	###.###             	0	F
+OvcNumericFieldQty3                               	TOvcNumericField    	          	###.###             	0	F
+OvcNumericFieldQty4                               	TOvcNumericField    	          	###.###             	0	F
+OvcNumericFieldQty5                               	TOvcNumericField    	          	###.###             	0	F
+OvcNumericFieldQty6                               	TOvcNumericField    	          	###.###             	0	F
+OvcNumericFieldQty7                               	TOvcNumericField    	          	###.###             	0	F
+OvcNumericFieldQty8                               	TOvcNumericField    	          	###.###             	0	F
+OvcNumericFieldQty9                               	TOvcNumericField    	          	###.###             	0	F
+OvcNumericFieldQty10                              	TOvcNumericField    	          	###.###             	0	F
+CheckBoxCostFromRecipe                            	TCheckBox           	boolean   	                    	0	F
+EditSearch4                                       	TEdit               	string    	                    	0	F
+SpecterNewComboBoxReportGroupSearch4              	TSpecterNewComboBox 	smallint  	                    	101	F
+SpecterNewComboBoxPrinterGroupSearch4             	TSpecterNewComboBox 	smallint  	                    	33	F
+SpecterNewComboBoxMenuItemFilterSearch4           	TSpecterNewComboBox 	smallint  	                    	300	F
+SpecterNewComboBoxCanvasSearch4                   	TSpecterNewComboBox 	smallint  	                    	251	F

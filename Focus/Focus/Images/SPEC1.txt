@@ -1,0 +1,7 @@
+Special # 1 contains the following allergens
+
+Allergy Information:
+Nuts
+Lactose
+Whey
+Gluten
